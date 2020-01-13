@@ -1,5 +1,5 @@
 # default configuration
-baseURL = "https://gallant-lamarr-c7c190.netlify.com/"
+baseURL = "https://hugo-staging.netlify.com/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
